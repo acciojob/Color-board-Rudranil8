@@ -5,7 +5,8 @@
   grid-template-rows: repeat(20, 20px);
 }
 .square {
-  width: 20px;
-  height: 20px;
-  transition: background-color 1s;
+	width: 20px;
+	height: 20px;
+	background-color:rgb(29, 29, 29);
+	transition: background-color 1s;
 }
